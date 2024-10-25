@@ -1,4 +1,4 @@
-# Project for CSE6730 - Modelling and Simulation
+Project for CSE6730 - Modelling and Simulation
 
 
 
