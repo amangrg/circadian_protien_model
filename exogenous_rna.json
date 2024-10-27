@@ -1,0 +1,22 @@
+{
+    "y1_0": {
+        "description": "exogenous rna for Per",
+        "value": 0
+    },
+    "y2_0": {
+        "description": "exogenous rna for Cry",
+        "value": 0
+    },
+    "y3_0": {
+        "description": "exogenous rna for Rev-Erb",
+        "value": 0
+    },
+    "y4_0": {
+        "description": "exogenous rna for Ror",
+        "value": 0
+    },
+    "y5_0": {
+        "description": "exogenous rna for Bmal",
+        "value": 0
+    }
+}

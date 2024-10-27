@@ -1,0 +1,22 @@
+{
+    "b": {
+        "description": "hill coefficient of transcription for Per activation",
+        "value": 7.998893307495355209e+00
+    },
+    "c": {
+        "description": "hill coefficient of transcription for Per inhibition",
+        "value": 4.556824965925581949e+00
+    },
+    "e": {
+        "description": "hill coefficient of transcription for Cry activation",
+        "value": 5.191088583384184219e+00
+    },
+    "f": {
+        "description": "hill coefficient of transcription for Cry inhibition 0",
+        "value": 7.952539494977783896e+00
+    },
+    "f1": {
+        "description": "hill coefficient of transcription for Cry inhibition 1",
+        "value": 1.000000117905025299e+00
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "tr_y1": {
+        "description": "transcription rate for Per",
+        "value": 1.431354527758984853e-10
+    },
+    "tr_y2": {
+        "description": "transcription rate for Cry",
+        "value": 4.965296779911713834e-11
+    },
+    "tr_y3": {
+        "description": "transcription rate for Rev-Erb",
+        "value": 7.932982361148008e-12
+    },
+    "tr_y4": {
+        "description": "transcription rate for Ror",
+        "value": 3.932653049696905e-11
+    },
+    "tr_y5": {
+        "description": "transcription rate for Bmal",
+        "value": 2.672998453860527381e-12
+    },
+    "tr_y6": {
+        "description": "transcription rate for Clock",
+        "value": 2.72810868317911e-12
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "vc": {
+        "description": "volume proportion for cytoplasm",
+        "value": 0.93
+    },
+    "vn": {
+        "description": "volume proportion for nucleus",
+        "value": 0.07
+    }
+}

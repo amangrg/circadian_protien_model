@@ -1,0 +1,18 @@
+{
+    "kf_z9": {
+        "description": "reaction rate for Clock/Bmal_C formation",
+        "value": 6.570116403835508972e+07
+    },
+    "kd_z9": {
+        "description": "reaction rate for Clock/Bmal_C dissociation",
+        "value": 2.790128565285300843e-01
+    },
+    "kf_z4": {
+        "description": "reaction rate for Per/Cry_C^tot formation",
+        "value": 3.176076047002232820e+07
+    },
+    "kd_z4": {
+        "description": "reaction rate for Per/Cry_C^tot dissociation",
+        "value": 2.102775567110771668e-02
+    }
+}
