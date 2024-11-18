@@ -1,26 +1,8 @@
 {
-    "impr_z4": {
-        "description": "Import Rate for Per/Cry_C^tot",
-        "value": 3.406781870219275504e-02
-    },
-    "impr_z6": {
-        "description": "Import Rate for Rev-Erb_C",
-        "value": 4.057127578605156937e-01
-    },
-    "impr_z7": {
-        "description": "Import Rate for Ror_C",
-        "value": 1.100141071892025545e-03
-    },
-    "impr_z9": {
-        "description": "Import Rate for Clock/Bmal_C",
-        "value": 1.031650538466537910e-03
-    },
-    "expr_x1": {
-        "description": "Export Rate for Clock/Bmal_N",
-        "value": 4.025131371619573573e-01
-    },
-    "expr_x2": {
-        "description": "Export Rate for Per/Cry_N^tot",
-        "value": 4.503705365981556656e-03 
-    }
+    "impr_z4": 3.406781870219275504e-02,
+    "impr_z6": 4.057127578605156937e-01,
+    "impr_z7": 1.100141071892025545e-03,
+    "impr_z9": 1.031650538466537910e-03,
+    "expr_x1": 4.025131371619573573e-01,
+    "expr_x2": 4.503705365981556656e-03 
 }

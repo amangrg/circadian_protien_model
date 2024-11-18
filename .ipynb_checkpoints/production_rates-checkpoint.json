@@ -1,0 +1,26 @@
+{
+    "pr_z2": {
+        "description": "Production Rate for Per_C^tot",
+        "value": 3.849242746066815357e+02
+    },
+    "pr_z1": {
+        "description": "Production Rate for Cry_C",
+        "value": 4.696348431243051209e+02
+    },
+    "pr_z6": {
+        "description": "Production Rate for Rev-Erb_C",
+        "value": 2.695929970235080873e+03
+    },
+    "pr_z7": {
+        "description": "Production Rate for Ror_C",
+        "value": 3.386881194607955763e+02
+    },
+    "pr_z8": {
+        "description": "Production Rate for Bmal_C",
+        "value": 8.035155914224467324e+02
+    },
+    "pr_z5": {
+        "description": "Production Rate for Clock_C",
+        "value": 2.884416548556342832e+02
+    }
+}

@@ -1,54 +1,15 @@
 {
-    "ar_y1": {
-        "description": "activation rate for Per",
-        "value": 6.599175580594761794e-11
-    },
-    "ir_y1": {
-        "description": "inibition rate for Per",
-        "value": 1.191167928876664548e-09
-    },
-    "ar_y2": {
-        "description": "activation rate for Cry",
-        "value": 2.412015264264981281e-07
-    },
-    "ir_y2": {
-        "description": "inibition rate for Cry",
-        "value": 2.227201415402780948e-11
-    },
-    "ir_y21": {
-        "description": "inibition rate for Cry 1",
-        "value": 1.150337613702569903e-08
-    },
-    "ar_y3": {
-        "description": "activation rate for Rev-Erb",
-        "value": 7.159457423778812337e-11
-    },
-    "ir_y3": {
-        "description": "inibition rate for Rev-Erb",
-        "value": 1.490909562787938013e-08
-    },
-    "ar_y4": {
-        "description": "activation rate for Ror",
-        "value": 4.692927410302225416e-09
-    },
-    "ir_y4": {
-        "description": "inibition rate for Ror",
-        "value": 1.173162927762761126e-12
-    },
-    "ar_y5": {
-        "description": "activation rate for Bmal",
-        "value": 1.844076990996893649e-08
-    },
-    "ir_y5": {
-        "description": "inibition rate for Bmal",
-        "value": 1.055539858320017903e-08
-    },
-    "ar_y6": {
-        "description": "activation rate for Clock",
-        "value": 1.593491913408924356e-11
-    },
-    "ir_y6": {
-        "description": "inibition rate for Clock",
-        "value": 4.692647676240116625e-08
-    }
+    "ar_y1": 6.599175580594761794e-2,
+    "ar_y2": 2.412015264264981281e+2,
+    "ar_y3": 7.159457423778812337e-2,
+    "ar_y4": 4.692927410302225416e+0,
+    "ar_y5": 1.844076990996893649e+1,
+    "ar_y6": 1.593491913408924356e-2,
+    "ir_y1": 1.191167928876664548e+0,
+    "ir_y2": 2.227201415402780948e-2,
+    "ir_y21": 1.150337613702569903e+1,
+    "ir_y3": 1.490909562787938013e+1,
+    "ir_y4": 1.173162927762761126e-3,
+    "ir_y5": 1.055539858320017903e+1,
+    "ir_y6": 4.692647676240116625e+1
 }

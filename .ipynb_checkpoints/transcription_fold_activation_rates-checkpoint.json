@@ -1,0 +1,26 @@
+{
+    "a": {
+        "description": "Transcription fold activation for Per",
+        "value": 3.003844636864970141e+01
+    },
+    "d": {
+        "description": "Transcription fold activation for Cry",
+        "value": 6.056629625022718955e+00
+    },
+    "g": {
+        "description": "Transcription fold activation for Rev-Erb",
+        "value": 1.983470062085320365e+02
+    },
+    "h": {
+        "description": "Transcription fold activation for Ror",
+        "value": 9.753748815212851753e+00
+    },
+    "i": {
+        "description": "Transcription fold activation for Bmal",
+        "value": 12
+    },
+    "j": {
+        "description": "Transcription fold activation for Clock",
+        "value": 3.350718951818094649e+00
+    }
+}
